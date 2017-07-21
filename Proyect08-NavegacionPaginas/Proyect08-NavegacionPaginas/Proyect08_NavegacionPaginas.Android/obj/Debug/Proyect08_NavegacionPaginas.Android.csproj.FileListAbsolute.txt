@@ -48,3 +48,5 @@ C:\Xamarin\Proyect08-NavegacionPaginas\Proyect08-NavegacionPaginas\Proyect08_Nav
 C:\Xamarin\Proyect08-NavegacionPaginas\Proyect08-NavegacionPaginas\Proyect08_NavegacionPaginas.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Xamarin\Proyect08-NavegacionPaginas\Proyect08-NavegacionPaginas\Proyect08_NavegacionPaginas.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Xamarin\Proyect08-NavegacionPaginas\Proyect08-NavegacionPaginas\Proyect08_NavegacionPaginas.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Xamarin\Proyect08-NavegacionPaginas\Proyect08-NavegacionPaginas\Proyect08_NavegacionPaginas.Android\obj\Debug\res\drawable\hamburger.png
+C:\Xamarin\Proyect08-NavegacionPaginas\Proyect08-NavegacionPaginas\Proyect08_NavegacionPaginas.Android\obj\Debug\res\drawable\start.png

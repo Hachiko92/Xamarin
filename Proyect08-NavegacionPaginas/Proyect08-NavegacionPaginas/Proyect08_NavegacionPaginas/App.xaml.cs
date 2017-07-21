@@ -12,13 +12,17 @@ namespace Proyect08_NavegacionPaginas
         public App()
         {
             InitializeComponent();
-
+            
             /* necesita un patron de navegación */
             //MainPage = new NavigationPage(new HomePage());
             //MainPage = new NavigationPage(new DropDownMenu());
             //MainPage = new NavigationPage(new DrillDownListViewByItem());
             //MainPage = new NavigationPage(new DrillDownListViewByPage());
-            MainPage = new NavigationPage(new DrillDownTableView());
+            //MainPage = new NavigationPage(new DrillDownTableView());
+            //MainPage = new NavigationPage(new NavigationDrawer());
+            //MainPage = new NavigationPage(new TabPage());
+            MainPage = new NavigationPage(new TabPageDataBound());
+
         }
 
         protected override void OnStart()

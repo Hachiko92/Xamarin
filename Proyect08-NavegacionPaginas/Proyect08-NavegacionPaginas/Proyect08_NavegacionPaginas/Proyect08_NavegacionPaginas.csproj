@@ -50,8 +50,12 @@
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="NavigationDrawer.cs" />
+    <Compile Include="NumberPage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SecondPage.cs" />
+    <Compile Include="TabItem.cs" />
+    <Compile Include="TabPage.cs" />
+    <Compile Include="TabPageDataBound.cs" />
     <Compile Include="ThirdPage.cs" />
   </ItemGroup>
   <ItemGroup>
