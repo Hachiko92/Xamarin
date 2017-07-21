@@ -1,0 +1,15 @@
+C:\Xamarin\Proyect08-NavegacionPaginas\Proyect08-NavegacionPaginas\Proyect08_NavegacionPaginas\bin\Debug\Proyect08_NavegacionPaginas.dll
+C:\Xamarin\Proyect08-NavegacionPaginas\Proyect08-NavegacionPaginas\Proyect08_NavegacionPaginas\bin\Debug\Proyect08_NavegacionPaginas.pdb
+C:\Xamarin\Proyect08-NavegacionPaginas\Proyect08-NavegacionPaginas\Proyect08_NavegacionPaginas\bin\Debug\Xamarin.Forms.Core.dll
+C:\Xamarin\Proyect08-NavegacionPaginas\Proyect08-NavegacionPaginas\Proyect08_NavegacionPaginas\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Xamarin\Proyect08-NavegacionPaginas\Proyect08-NavegacionPaginas\Proyect08_NavegacionPaginas\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Xamarin\Proyect08-NavegacionPaginas\Proyect08-NavegacionPaginas\Proyect08_NavegacionPaginas\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Xamarin\Proyect08-NavegacionPaginas\Proyect08-NavegacionPaginas\Proyect08_NavegacionPaginas\bin\Debug\Xamarin.Forms.Core.xml
+C:\Xamarin\Proyect08-NavegacionPaginas\Proyect08-NavegacionPaginas\Proyect08_NavegacionPaginas\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Xamarin\Proyect08-NavegacionPaginas\Proyect08-NavegacionPaginas\Proyect08_NavegacionPaginas\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Xamarin\Proyect08-NavegacionPaginas\Proyect08-NavegacionPaginas\Proyect08_NavegacionPaginas\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Xamarin\Proyect08-NavegacionPaginas\Proyect08-NavegacionPaginas\Proyect08_NavegacionPaginas\obj\Debug\Proyect08_NavegacionPaginas.csprojResolveAssemblyReference.cache
+C:\Xamarin\Proyect08-NavegacionPaginas\Proyect08-NavegacionPaginas\Proyect08_NavegacionPaginas\obj\Debug\Proyect08_NavegacionPaginas.MainPage.xaml.g.cs
+C:\Xamarin\Proyect08-NavegacionPaginas\Proyect08-NavegacionPaginas\Proyect08_NavegacionPaginas\obj\Debug\Proyect08_NavegacionPaginas.App.xaml.g.cs
+C:\Xamarin\Proyect08-NavegacionPaginas\Proyect08-NavegacionPaginas\Proyect08_NavegacionPaginas\obj\Debug\Proyect08_NavegacionPaginas.dll
+C:\Xamarin\Proyect08-NavegacionPaginas\Proyect08-NavegacionPaginas\Proyect08_NavegacionPaginas\obj\Debug\Proyect08_NavegacionPaginas.pdb
