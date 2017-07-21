@@ -38,6 +38,7 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Carousel.cs" />
     <Compile Include="DetailsPage.cs" />
     <Compile Include="DrillDownListViewByItem.cs" />
     <Compile Include="DrillDownListViewByPage.cs" />

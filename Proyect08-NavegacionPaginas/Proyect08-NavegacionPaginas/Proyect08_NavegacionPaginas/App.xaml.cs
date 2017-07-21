@@ -12,7 +12,7 @@ namespace Proyect08_NavegacionPaginas
         public App()
         {
             InitializeComponent();
-            
+
             /* necesita un patron de navegación */
             //MainPage = new NavigationPage(new HomePage());
             //MainPage = new NavigationPage(new DropDownMenu());
@@ -21,7 +21,8 @@ namespace Proyect08_NavegacionPaginas
             //MainPage = new NavigationPage(new DrillDownTableView());
             //MainPage = new NavigationPage(new NavigationDrawer());
             //MainPage = new NavigationPage(new TabPage());
-            MainPage = new NavigationPage(new TabPageDataBound());
+            //MainPage = new NavigationPage(new TabPageDataBound());
+            MainPage = new NavigationPage(new Carousel());
 
         }
 
