@@ -1,0 +1,16 @@
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto03-Xaml\Proyecto03-Xaml\Proyecto03_Xaml\bin\Debug\Proyecto03_Xaml.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto03-Xaml\Proyecto03-Xaml\Proyecto03_Xaml\bin\Debug\Proyecto03_Xaml.pdb
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto03-Xaml\Proyecto03-Xaml\Proyecto03_Xaml\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto03-Xaml\Proyecto03-Xaml\Proyecto03_Xaml\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto03-Xaml\Proyecto03-Xaml\Proyecto03_Xaml\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto03-Xaml\Proyecto03-Xaml\Proyecto03_Xaml\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto03-Xaml\Proyecto03-Xaml\Proyecto03_Xaml\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto03-Xaml\Proyecto03-Xaml\Proyecto03_Xaml\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto03-Xaml\Proyecto03-Xaml\Proyecto03_Xaml\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto03-Xaml\Proyecto03-Xaml\Proyecto03_Xaml\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto03-Xaml\Proyecto03-Xaml\Proyecto03_Xaml\obj\Debug\Proyecto03_Xaml.csprojResolveAssemblyReference.cache
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto03-Xaml\Proyecto03-Xaml\Proyecto03_Xaml\obj\Debug\Proyecto03_Xaml.MainPage.xaml.g.cs
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto03-Xaml\Proyecto03-Xaml\Proyecto03_Xaml\obj\Debug\Proyecto03_Xaml.App.xaml.g.cs
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto03-Xaml\Proyecto03-Xaml\Proyecto03_Xaml\obj\Debug\Proyecto03_Xaml.HomePage.xaml.g.cs
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto03-Xaml\Proyecto03-Xaml\Proyecto03_Xaml\obj\Debug\Proyecto03_Xaml.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto03-Xaml\Proyecto03-Xaml\Proyecto03_Xaml\obj\Debug\Proyecto03_Xaml.pdb

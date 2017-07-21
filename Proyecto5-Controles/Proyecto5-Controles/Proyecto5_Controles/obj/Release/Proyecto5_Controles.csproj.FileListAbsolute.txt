@@ -1,0 +1,14 @@
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto5-Controles\Proyecto5-Controles\Proyecto5_Controles\bin\Release\Proyecto5_Controles.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto5-Controles\Proyecto5-Controles\Proyecto5_Controles\bin\Release\Proyecto5_Controles.pdb
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto5-Controles\Proyecto5-Controles\Proyecto5_Controles\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto5-Controles\Proyecto5-Controles\Proyecto5_Controles\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto5-Controles\Proyecto5-Controles\Proyecto5_Controles\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto5-Controles\Proyecto5-Controles\Proyecto5_Controles\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto5-Controles\Proyecto5-Controles\Proyecto5_Controles\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto5-Controles\Proyecto5-Controles\Proyecto5_Controles\bin\Release\Xamarin.Forms.Platform.pdb
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto5-Controles\Proyecto5-Controles\Proyecto5_Controles\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto5-Controles\Proyecto5-Controles\Proyecto5_Controles\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto5-Controles\Proyecto5-Controles\Proyecto5_Controles\obj\Release\Proyecto5_Controles.MainPage.xaml.g.cs
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto5-Controles\Proyecto5-Controles\Proyecto5_Controles\obj\Release\Proyecto5_Controles.App.xaml.g.cs
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto5-Controles\Proyecto5-Controles\Proyecto5_Controles\obj\Release\Proyecto5_Controles.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto5-Controles\Proyecto5-Controles\Proyecto5_Controles\obj\Release\Proyecto5_Controles.pdb

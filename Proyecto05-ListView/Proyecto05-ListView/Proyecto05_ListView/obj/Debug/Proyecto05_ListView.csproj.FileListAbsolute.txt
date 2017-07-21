@@ -1,0 +1,14 @@
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto05-ListView\Proyecto05-ListView\Proyecto05_ListView\bin\Debug\Proyecto05_ListView.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto05-ListView\Proyecto05-ListView\Proyecto05_ListView\bin\Debug\Proyecto05_ListView.pdb
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto05-ListView\Proyecto05-ListView\Proyecto05_ListView\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto05-ListView\Proyecto05-ListView\Proyecto05_ListView\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto05-ListView\Proyecto05-ListView\Proyecto05_ListView\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto05-ListView\Proyecto05-ListView\Proyecto05_ListView\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto05-ListView\Proyecto05-ListView\Proyecto05_ListView\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto05-ListView\Proyecto05-ListView\Proyecto05_ListView\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto05-ListView\Proyecto05-ListView\Proyecto05_ListView\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto05-ListView\Proyecto05-ListView\Proyecto05_ListView\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto05-ListView\Proyecto05-ListView\Proyecto05_ListView\obj\Debug\Proyecto05_ListView.csprojResolveAssemblyReference.cache
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto05-ListView\Proyecto05-ListView\Proyecto05_ListView\obj\Debug\Proyecto05_ListView.App.xaml.g.cs
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto05-ListView\Proyecto05-ListView\Proyecto05_ListView\obj\Debug\Proyecto05_ListView.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto05-ListView\Proyecto05-ListView\Proyecto05_ListView\obj\Debug\Proyecto05_ListView.pdb

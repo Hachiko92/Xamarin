@@ -1,0 +1,15 @@
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto04-Layouts\Proyecto04-Layouts\Proyecto04_Layouts\bin\Debug\Proyecto04_Layouts.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto04-Layouts\Proyecto04-Layouts\Proyecto04_Layouts\bin\Debug\Proyecto04_Layouts.pdb
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto04-Layouts\Proyecto04-Layouts\Proyecto04_Layouts\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto04-Layouts\Proyecto04-Layouts\Proyecto04_Layouts\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto04-Layouts\Proyecto04-Layouts\Proyecto04_Layouts\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto04-Layouts\Proyecto04-Layouts\Proyecto04_Layouts\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto04-Layouts\Proyecto04-Layouts\Proyecto04_Layouts\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto04-Layouts\Proyecto04-Layouts\Proyecto04_Layouts\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto04-Layouts\Proyecto04-Layouts\Proyecto04_Layouts\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto04-Layouts\Proyecto04-Layouts\Proyecto04_Layouts\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto04-Layouts\Proyecto04-Layouts\Proyecto04_Layouts\obj\Debug\Proyecto04_Layouts.csprojResolveAssemblyReference.cache
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto04-Layouts\Proyecto04-Layouts\Proyecto04_Layouts\obj\Debug\Proyecto04_Layouts.MainPage.xaml.g.cs
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto04-Layouts\Proyecto04-Layouts\Proyecto04_Layouts\obj\Debug\Proyecto04_Layouts.App.xaml.g.cs
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto04-Layouts\Proyecto04-Layouts\Proyecto04_Layouts\obj\Debug\Proyecto04_Layouts.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto04-Layouts\Proyecto04-Layouts\Proyecto04_Layouts\obj\Debug\Proyecto04_Layouts.pdb

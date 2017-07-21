@@ -1,0 +1,15 @@
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto06-e\Proyecto06-e\Proyecto06_e\bin\Debug\Proyecto06_e.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto06-e\Proyecto06-e\Proyecto06_e\bin\Debug\Proyecto06_e.pdb
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto06-e\Proyecto06-e\Proyecto06_e\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto06-e\Proyecto06-e\Proyecto06_e\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto06-e\Proyecto06-e\Proyecto06_e\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto06-e\Proyecto06-e\Proyecto06_e\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto06-e\Proyecto06-e\Proyecto06_e\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto06-e\Proyecto06-e\Proyecto06_e\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto06-e\Proyecto06-e\Proyecto06_e\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto06-e\Proyecto06-e\Proyecto06_e\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto06-e\Proyecto06-e\Proyecto06_e\obj\Debug\Proyecto06_e.csprojResolveAssemblyReference.cache
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto06-e\Proyecto06-e\Proyecto06_e\obj\Debug\Proyecto06_e.MainPage.xaml.g.cs
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto06-e\Proyecto06-e\Proyecto06_e\obj\Debug\Proyecto06_e.App.xaml.g.cs
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto06-e\Proyecto06-e\Proyecto06_e\obj\Debug\Proyecto06_e.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto06-e\Proyecto06-e\Proyecto06_e\obj\Debug\Proyecto06_e.pdb

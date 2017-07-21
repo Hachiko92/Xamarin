@@ -1,0 +1,16 @@
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Ejercicio2-1c\Ejercicio2-1c\Ejercicio2_1c\bin\Debug\Ejercicio2_1c.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Ejercicio2-1c\Ejercicio2-1c\Ejercicio2_1c\bin\Debug\Ejercicio2_1c.pdb
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Ejercicio2-1c\Ejercicio2-1c\Ejercicio2_1c\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Ejercicio2-1c\Ejercicio2-1c\Ejercicio2_1c\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Ejercicio2-1c\Ejercicio2-1c\Ejercicio2_1c\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Ejercicio2-1c\Ejercicio2-1c\Ejercicio2_1c\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Ejercicio2-1c\Ejercicio2-1c\Ejercicio2_1c\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Ejercicio2-1c\Ejercicio2-1c\Ejercicio2_1c\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Ejercicio2-1c\Ejercicio2-1c\Ejercicio2_1c\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Ejercicio2-1c\Ejercicio2-1c\Ejercicio2_1c\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Ejercicio2-1c\Ejercicio2-1c\Ejercicio2_1c\obj\Debug\Ejercicio2_1c.csprojResolveAssemblyReference.cache
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Ejercicio2-1c\Ejercicio2-1c\Ejercicio2_1c\obj\Debug\Ejercicio2_1c.MainPage.xaml.g.cs
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Ejercicio2-1c\Ejercicio2-1c\Ejercicio2_1c\obj\Debug\Ejercicio2_1c.App.xaml.g.cs
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Ejercicio2-1c\Ejercicio2-1c\Ejercicio2_1c\obj\Debug\Ejercicio2_1c.HomeApuestas.xaml.g.cs
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Ejercicio2-1c\Ejercicio2-1c\Ejercicio2_1c\obj\Debug\Ejercicio2_1c.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Ejercicio2-1c\Ejercicio2-1c\Ejercicio2_1c\obj\Debug\Ejercicio2_1c.pdb

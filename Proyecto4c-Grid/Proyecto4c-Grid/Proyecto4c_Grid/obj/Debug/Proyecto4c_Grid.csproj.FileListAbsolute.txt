@@ -1,0 +1,15 @@
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto4c-Grid\Proyecto4c-Grid\Proyecto4c_Grid\bin\Debug\Proyecto4c_Grid.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto4c-Grid\Proyecto4c-Grid\Proyecto4c_Grid\bin\Debug\Proyecto4c_Grid.pdb
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto4c-Grid\Proyecto4c-Grid\Proyecto4c_Grid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto4c-Grid\Proyecto4c-Grid\Proyecto4c_Grid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto4c-Grid\Proyecto4c-Grid\Proyecto4c_Grid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto4c-Grid\Proyecto4c-Grid\Proyecto4c_Grid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto4c-Grid\Proyecto4c-Grid\Proyecto4c_Grid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto4c-Grid\Proyecto4c-Grid\Proyecto4c_Grid\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto4c-Grid\Proyecto4c-Grid\Proyecto4c_Grid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto4c-Grid\Proyecto4c-Grid\Proyecto4c_Grid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto4c-Grid\Proyecto4c-Grid\Proyecto4c_Grid\obj\Debug\Proyecto4c_Grid.csprojResolveAssemblyReference.cache
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto4c-Grid\Proyecto4c-Grid\Proyecto4c_Grid\obj\Debug\Proyecto4c_Grid.MainPage.xaml.g.cs
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto4c-Grid\Proyecto4c-Grid\Proyecto4c_Grid\obj\Debug\Proyecto4c_Grid.App.xaml.g.cs
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto4c-Grid\Proyecto4c-Grid\Proyecto4c_Grid\obj\Debug\Proyecto4c_Grid.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto4c-Grid\Proyecto4c-Grid\Proyecto4c_Grid\obj\Debug\Proyecto4c_Grid.pdb

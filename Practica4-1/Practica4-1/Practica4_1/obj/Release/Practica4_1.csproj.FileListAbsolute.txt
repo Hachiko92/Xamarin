@@ -1,0 +1,15 @@
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Practica4-1\Practica4-1\Practica4_1\bin\Release\Practica4_1.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Practica4-1\Practica4-1\Practica4_1\bin\Release\Practica4_1.pdb
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Practica4-1\Practica4-1\Practica4_1\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Practica4-1\Practica4-1\Practica4_1\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Practica4-1\Practica4-1\Practica4_1\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Practica4-1\Practica4-1\Practica4_1\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Practica4-1\Practica4-1\Practica4_1\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Practica4-1\Practica4-1\Practica4_1\bin\Release\Xamarin.Forms.Platform.pdb
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Practica4-1\Practica4-1\Practica4_1\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Practica4-1\Practica4-1\Practica4_1\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Practica4-1\Practica4-1\Practica4_1\obj\Release\Practica4_1.csprojResolveAssemblyReference.cache
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Practica4-1\Practica4-1\Practica4_1\obj\Release\Practica4_1.MainPage.xaml.g.cs
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Practica4-1\Practica4-1\Practica4_1\obj\Release\Practica4_1.App.xaml.g.cs
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Practica4-1\Practica4-1\Practica4_1\obj\Release\Practica4_1.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Practica4-1\Practica4-1\Practica4_1\obj\Release\Practica4_1.pdb

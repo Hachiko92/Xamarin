@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ejercicio2_1c.HomeApuestas">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <Label 
+                Text="APUESTAS BOT365"
+                BackgroundColor="Green"
+                TextColor="Yellow"
+                HorizontalOptions="Center"/>
+
+                <Entry 
+                x:Name="username"
+                Placeholder="UserName"
+                BackgroundColor="Green"
+                TextColor="Yellow" />
+
+                <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                    <Image
+                    x:Name="imgMinus"
+                    Source="Math-Minus.png"
+                    Aspect="AspectFit"
+                    WidthRequest="60" />
+
+                    <Label
+                    x:Name="lblApuesta"
+                    Text="10"
+                    BackgroundColor="Goldenrod"
+                    TextColor="White" 
+                    FontSize="40"/>
+
+                    <Image
+                    x:Name="imgPlus"
+                    Source="plus.png"
+                    Aspect="AspectFit"
+                    WidthRequest="60" />
+                </StackLayout>
+
+                <Button 
+                x:Name="btnApostar"
+                Text="APOSTAR"
+                HorizontalOptions="Center"/>
+
+                <StackLayout Orientation="Horizontal" HorizontalOptions="Start">
+                    <Label
+                    Text="Username: "/>
+                    <Label 
+                    x:Name="lblUsuario" />
+                </StackLayout>
+                <StackLayout Orientation="Horizontal" HorizontalOptions="Start">
+                    <Label
+                    Text="Apuesta: "/>
+                    <Label 
+                    x:Name="lblEuro" />
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

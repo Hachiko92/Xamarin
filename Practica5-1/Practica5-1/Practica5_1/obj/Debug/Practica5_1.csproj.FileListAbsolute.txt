@@ -1,0 +1,14 @@
+C:\Xamarin\Practica5-1\Practica5-1\Practica5_1\obj\Debug\Practica5_1.csprojResolveAssemblyReference.cache
+C:\Xamarin\Practica5-1\Practica5-1\Practica5_1\obj\Debug\Practica5_1.App.xaml.g.cs
+C:\Xamarin\Practica5-1\Practica5-1\Practica5_1\bin\Debug\Practica5_1.dll
+C:\Xamarin\Practica5-1\Practica5-1\Practica5_1\bin\Debug\Practica5_1.pdb
+C:\Xamarin\Practica5-1\Practica5-1\Practica5_1\bin\Debug\Xamarin.Forms.Core.dll
+C:\Xamarin\Practica5-1\Practica5-1\Practica5_1\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Xamarin\Practica5-1\Practica5-1\Practica5_1\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Xamarin\Practica5-1\Practica5-1\Practica5_1\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Xamarin\Practica5-1\Practica5-1\Practica5_1\bin\Debug\Xamarin.Forms.Core.xml
+C:\Xamarin\Practica5-1\Practica5-1\Practica5_1\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Xamarin\Practica5-1\Practica5-1\Practica5_1\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Xamarin\Practica5-1\Practica5-1\Practica5_1\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Xamarin\Practica5-1\Practica5-1\Practica5_1\obj\Debug\Practica5_1.dll
+C:\Xamarin\Practica5-1\Practica5-1\Practica5_1\obj\Debug\Practica5_1.pdb

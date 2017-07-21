@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Proyecto03_Xaml.HomePage">
+    <ContentPage.Content>
+        <ScrollView VerticalOptions="FillAndExpand">
+            <StackLayout HeightRequest="1500" BackgroundColor="White">
+                <Label 
+                    Text="Label"
+                    FontSize="40"
+                    TextColor="#333333"
+                    HorizontalTextAlignment="Center"
+                    HorizontalOptions="FillAndExpand" />
+
+                <Label 
+                    Text="Este control tiene muchas más lineas"
+                    FontSize="20"
+                    TextColor="#333"
+                    HorizontalTextAlignment="Center"
+                    HorizontalOptions="FillAndExpand"
+                    FontFamily="Courier"
+                    FontAttributes="Bold" />
+
+                <Button 
+                    x:Name="boton"
+                    Text="Make It So"
+                    BackgroundColor="Yellow"
+                    TextColor="#333"
+                    HorizontalOptions="Center"
+                    VerticalOptions="Fill" />
+
+                <Entry
+                    Placeholder="UserName"
+                    VerticalOptions="Center"
+                    Keyboard="Text"
+                    TextColor="#333" />
+
+                <BoxView
+                    Color="Silver"
+                    WidthRequest="150"
+                    HeightRequest="150"
+                    HorizontalOptions="StartAndExpand"
+                    VerticalOptions="Fill" />
+
+                <Image 
+                    x:Name="image"
+                    Source="skull.png"
+                    Aspect="AspectFit"
+                    HorizontalOptions="End"
+                    VerticalOptions="Fill"
+                    Margin="10" />
+                
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

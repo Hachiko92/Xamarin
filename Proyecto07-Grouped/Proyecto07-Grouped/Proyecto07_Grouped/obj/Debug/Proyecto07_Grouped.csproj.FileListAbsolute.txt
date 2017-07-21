@@ -1,0 +1,15 @@
+C:\Xamarin\Proyecto07-Grouped\Proyecto07-Grouped\Proyecto07_Grouped\bin\Debug\Proyecto07_Grouped.dll
+C:\Xamarin\Proyecto07-Grouped\Proyecto07-Grouped\Proyecto07_Grouped\bin\Debug\Proyecto07_Grouped.pdb
+C:\Xamarin\Proyecto07-Grouped\Proyecto07-Grouped\Proyecto07_Grouped\bin\Debug\Xamarin.Forms.Core.dll
+C:\Xamarin\Proyecto07-Grouped\Proyecto07-Grouped\Proyecto07_Grouped\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Xamarin\Proyecto07-Grouped\Proyecto07-Grouped\Proyecto07_Grouped\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Xamarin\Proyecto07-Grouped\Proyecto07-Grouped\Proyecto07_Grouped\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Xamarin\Proyecto07-Grouped\Proyecto07-Grouped\Proyecto07_Grouped\bin\Debug\Xamarin.Forms.Core.xml
+C:\Xamarin\Proyecto07-Grouped\Proyecto07-Grouped\Proyecto07_Grouped\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Xamarin\Proyecto07-Grouped\Proyecto07-Grouped\Proyecto07_Grouped\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Xamarin\Proyecto07-Grouped\Proyecto07-Grouped\Proyecto07_Grouped\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Xamarin\Proyecto07-Grouped\Proyecto07-Grouped\Proyecto07_Grouped\obj\Debug\Proyecto07_Grouped.csprojResolveAssemblyReference.cache
+C:\Xamarin\Proyecto07-Grouped\Proyecto07-Grouped\Proyecto07_Grouped\obj\Debug\Proyecto07_Grouped.MainPage.xaml.g.cs
+C:\Xamarin\Proyecto07-Grouped\Proyecto07-Grouped\Proyecto07_Grouped\obj\Debug\Proyecto07_Grouped.App.xaml.g.cs
+C:\Xamarin\Proyecto07-Grouped\Proyecto07-Grouped\Proyecto07_Grouped\obj\Debug\Proyecto07_Grouped.dll
+C:\Xamarin\Proyecto07-Grouped\Proyecto07-Grouped\Proyecto07_Grouped\obj\Debug\Proyecto07_Grouped.pdb

@@ -1,0 +1,15 @@
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto4b-RelativeLayout\Proyecto4b-RelativeLayout\Proyecto4b_RelativeLayout\bin\Debug\Proyecto4b_RelativeLayout.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto4b-RelativeLayout\Proyecto4b-RelativeLayout\Proyecto4b_RelativeLayout\bin\Debug\Proyecto4b_RelativeLayout.pdb
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto4b-RelativeLayout\Proyecto4b-RelativeLayout\Proyecto4b_RelativeLayout\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto4b-RelativeLayout\Proyecto4b-RelativeLayout\Proyecto4b_RelativeLayout\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto4b-RelativeLayout\Proyecto4b-RelativeLayout\Proyecto4b_RelativeLayout\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto4b-RelativeLayout\Proyecto4b-RelativeLayout\Proyecto4b_RelativeLayout\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto4b-RelativeLayout\Proyecto4b-RelativeLayout\Proyecto4b_RelativeLayout\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto4b-RelativeLayout\Proyecto4b-RelativeLayout\Proyecto4b_RelativeLayout\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto4b-RelativeLayout\Proyecto4b-RelativeLayout\Proyecto4b_RelativeLayout\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto4b-RelativeLayout\Proyecto4b-RelativeLayout\Proyecto4b_RelativeLayout\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto4b-RelativeLayout\Proyecto4b-RelativeLayout\Proyecto4b_RelativeLayout\obj\Debug\Proyecto4b_RelativeLayout.csprojResolveAssemblyReference.cache
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto4b-RelativeLayout\Proyecto4b-RelativeLayout\Proyecto4b_RelativeLayout\obj\Debug\Proyecto4b_RelativeLayout.MainPage.xaml.g.cs
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto4b-RelativeLayout\Proyecto4b-RelativeLayout\Proyecto4b_RelativeLayout\obj\Debug\Proyecto4b_RelativeLayout.App.xaml.g.cs
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto4b-RelativeLayout\Proyecto4b-RelativeLayout\Proyecto4b_RelativeLayout\obj\Debug\Proyecto4b_RelativeLayout.dll
+C:\Users\Web2017\Documents\CursoWeb\Xamarin\Proyecto4b-RelativeLayout\Proyecto4b-RelativeLayout\Proyecto4b_RelativeLayout\obj\Debug\Proyecto4b_RelativeLayout.pdb
