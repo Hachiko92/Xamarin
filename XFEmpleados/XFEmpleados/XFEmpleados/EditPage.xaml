@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XFEmpleados.EditPage">
+  
+    <ScrollView>
+    <StackLayout Padding="10" Spacing="10">
+      <Label Text="Editar Empleado" 
+             Font="24" 
+             HorizontalOptions="Center" 
+             VerticalOptions="Center" 
+             FontAttributes="Bold"/>
+      <Entry x:Name="NombreEntry"
+             TextColor="Black"
+             Placeholder="Nombre"/>
+      <Entry x:Name="ApellidoEntry"
+             TextColor="Black"
+             Placeholder="Apellido"/>
+      <Entry x:Name="SalarioEntry" 
+             TextColor="Black"
+             Placeholder="Salario" 
+             Keyboard="Numeric"/>
+      <StackLayout Orientation="Horizontal">
+        <Label Text="Fecha Contrato" 
+               VerticalOptions="Center"/>
+        <DatePicker x:Name="fechaContratoDatePicker"/>
+        <Label Text="Activo" 
+               HorizontalOptions="FillAndExpand"
+               VerticalOptions ="Center"/>
+        <Switch x:Name="activoSwitch" 
+                VerticalOptions="Center" 
+                HorizontalOptions="End"
+                IsToggled="true"/>
+      </StackLayout>
+      <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+        <Button x:Name="ActualizarButton"
+                  VerticalOptions="Start"
+                  BackgroundColor="Yellow"
+                  TextColor="Black"
+                  Text="Actualizar"/>
+        <Button x:Name="BorrarButton"
+                VerticalOptions="Start"
+                BackgroundColor="Yellow"
+                TextColor="Black"
+                Text="Borrar"/>
+        <ListView x:Name="datosListView"/>
+      </StackLayout>
+    </StackLayout>
+  </ScrollView>
+
+</ContentPage>

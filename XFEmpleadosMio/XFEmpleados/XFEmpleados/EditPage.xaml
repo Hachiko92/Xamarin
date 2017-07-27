@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XFEmpleados.EditPage">
+    <ScrollView>
+        <StackLayout Padding="10" Spacing="10">
+            <Label Text="Editar Empleado"
+                   Font="24"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"
+                   FontAttributes="Bold"/>
+
+            <Entry x:Name="nombreEntry"
+                   TextColor="Black"
+                   Placeholder="Nombre" />
+            <Entry x:Name="apellidoEntry"
+                   TextColor="Black"
+                   Placeholder="Apellido" />
+            <Entry x:Name="salarioEntry"
+                   TextColor="Black"
+                   Placeholder="Salario"
+                   Keyboard="Numeric"/>
+            <Entry x:Name="nombreEntry"
+                   TextColor="Black"
+                   Placeholder="Nombre" />
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Fecha Contracto"
+                       Font="24"
+                       VerticalOptions="Center"/>
+                <DatePicker x:Name="fechaContractoDatePicker"/>
+                <Label Text="Activo"
+                       Font="24"
+                       HorizontalOptions="FillAndExpand"
+                       VerticalOptions="Center" />
+                <Switch x:Name="activoSwitch" 
+                        IsToggled="True"
+                        VerticalOptions="Center"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Button x:Name="actualizarBoton"
+                        VerticalOptions="Start"
+                        BackgroundColor="Yellow"
+                        TextColor="Black"
+                        Text="ACTUALIZAR"/>
+                <Button x:Name="borrarBoton"
+                        VerticalOptions="End"
+                        BackgroundColor="Yellow"
+                        TextColor="Black"
+                        Text="BORRAR"/>
+            </StackLayout>
+            <ListView IsVisible="False"></ListView>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
