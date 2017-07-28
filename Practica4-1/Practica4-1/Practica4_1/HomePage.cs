@@ -93,6 +93,8 @@ namespace Practica4_1
                 FontSize = Device.GetNamedSize(NamedSize.Medium, typeof(Label)),
             };
 
+            lblMadre.cl
+
             edadMadre.ValueChanged += (sender, e) =>
             {
                 lblMadre.Text = "La edad de la madre es: " + e.NewValue.ToString("#");
